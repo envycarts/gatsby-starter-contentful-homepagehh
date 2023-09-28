@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@contentful/rich-text-html-renderer": "^15.11.1",
-    "gatsby-plugin-manifest": "^5.0.0",
+    "gatsby-plugin-manifest": "^5.10.0",
     "gatsby-source-contentful": "^8.0.0",
     "@fontsource/dm-mono": "^4.5.9",
     "@fontsource/dm-sans": "^4.5.8",
@@ -26,15 +26,15 @@
     "@vanilla-extract/webpack-plugin": "^2.1.12",
     "gatsby": "^5.0.0",
     "gatsby-plugin-image": "^3.0.0",
-    "gatsby-plugin-sharp": "^5.0.0",
+    "gatsby-plugin-sharp": "^5.10.0",
     "gatsby-plugin-vanilla-extract": "^2.0.1",
     "gatsby-source-filesystem": "^5.0.0",
-    "gatsby-transformer-sharp": "^5.0.0",
+    "gatsby-transformer-sharp": "^5.10.0",
     "is-absolute-url": "^4.0.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-feather": "^2.0.9",
-    "sharp": "^0.30.5"
+    "sharp": "^0.32.6"
   },
   "devDependencies": {
     "chalk": "4",
